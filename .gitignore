@@ -1,0 +1,19 @@
+# Data (large / regenerable)
+Frames/
+Videos/
+*.xls
+*.csv
+
+# Trained weights (~43MB each, use Releases or Git LFS instead)
+*.pth
+
+# Generated figures
+*.png
+!docs/**/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store

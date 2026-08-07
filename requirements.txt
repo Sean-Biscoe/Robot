@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+ipywidgets
+traitlets
+
+# Model / training
+torch
+torchvision
+
+# Deployment-only (not on PyPI, see README):
+# pyzed        -> install ZED SDK from stereolabs.com, then `python get_python_api.py`
+# motors       -> hardware-specific Yukon serial driver, not included in this repo
